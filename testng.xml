@@ -1,0 +1,7 @@
+<suite name="TaxJarSuite">
+ <test name="TaxJarTest">
+ <classes>
+ <class name="com.validateToken.ValidateMyToken" />
+ </classes>
+ </test>
+</suite>

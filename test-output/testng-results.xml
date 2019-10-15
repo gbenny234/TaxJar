@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-14T20:32:01 CDT" name="TaxJarSuite" finished-at="2019-10-14T20:32:19 CDT" duration-ms="18686">
+    <groups>
+    </groups>
+    <test started-at="2019-10-14T20:32:01 CDT" name="TaxJarTest" finished-at="2019-10-14T20:32:19 CDT" duration-ms="18686">
+      <class name="com.validateToken.ValidateMyToken">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.validateToken.ValidateMyToken@ed7f8b4]" started-at="2019-10-14T20:32:01 CDT" name="setUp" finished-at="2019-10-14T20:32:09 CDT" duration-ms="8020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createProfileWithValidData()[pri:0, instance:com.validateToken.ValidateMyToken@ed7f8b4]" started-at="2019-10-14T20:32:09 CDT" name="createProfileWithValidData" finished-at="2019-10-14T20:32:19 CDT" duration-ms="10556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProfileWithValidData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.validateToken.ValidateMyToken@ed7f8b4]" started-at="2019-10-14T20:32:19 CDT" name="tearDown" finished-at="2019-10-14T20:32:19 CDT" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.validateToken.ValidateMyToken -->
+    </test> <!-- TaxJarTest -->
+  </suite> <!-- TaxJarSuite -->
+</testng-results>
